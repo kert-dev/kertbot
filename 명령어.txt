@@ -1,0 +1,8 @@
+KERT discord bot
+
+명령어 목록
+
+!hello(!안녕): hello, world! 출력 
+!echo: 입력 받은 메세지 다시 말하기
+!random(!랜덤) start_num end_num: start_num ~ end_num 사이의 랜덤한 숫자를 출력
+!날씨: 경북대(북구 산격3동)날씨를 출력
